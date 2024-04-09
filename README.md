@@ -16,13 +16,13 @@
  </tr>
  <tr>
     <td align="center">
-      <a href="https://github.com/doitchuu/doitchuu/edit/main/README.md#1-double-diamond--%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EC%9D%84-%EC%9C%84%ED%95%B4-%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%83%9D%EA%B0%81%ED%95%98%EB%A0%A4-%EB%85%B8%EB%A0%A5%ED%95%A9%EB%8B%88%EB%8B%A4" style="text-decoration: none; color: inherit;">🔗</a><b> DOUBLE DIAMOND</b>
+     <b> DOUBLE DIAMOND</b>
     </td>
     <td align="center">
-      <a href="https://github.com/doitchuu/doitchuu/edit/main/README.md#2-pro-challenger--%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%97%85%EB%AC%B4--%EB%B6%84%EC%95%BC%EB%A5%BC-%EB%8F%84%EC%A0%84%ED%95%B4%EA%B0%80%EB%A9%B0-%EC%84%B1%EC%9E%A5%ED%95%B4%EA%B0%91%EB%8B%88%EB%8B%A4" style="text-decoration: none; color: inherit;">🔗</a><b> PRO CHALLENGER</b></a>
+      <b> PRO CHALLENGER</b></a>
     </td>
     <td align="center">
-      <a href="https://github.com/doitchuu/doitchuu/edit/main/README.md#3-always-ux-thinker--%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B2%BD%ED%97%98%EC%9D%84-%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%9D%B5%EC%88%99%ED%95%A9%EB%8B%88%EB%8B%A4" style="text-decoration:none; color: inherit;">🔗</a><b> ALWAYS UX THINKER</b></a>
+      <b> ALWAYS UX THINKER</b></a>
     </td>
  </tr>
 </table>
