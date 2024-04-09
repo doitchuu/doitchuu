@@ -2,17 +2,17 @@
 
 <br />
 
-<div style="display:flex;">
+<div style="display:flex; flex-direction:row;">
   <div style="margin-right: 24px;" align="center">
-    <img src="https://github.com/doitchuu/doitchuu/assets/43771772/502059c2-124d-49e4-bc69-2a83d9a0c0c1" width="120" style="margin-bottom: 4px; "alt="badge_double_diamond"/>
-     <p><b>DOUBLE DIAMOND</b></p>
+    <img src="https://github.com/doitchuu/doitchuu/assets/43771772/502059c2-124d-49e4-bc69-2a83d9a0c0c1" width="120" style="margin-bottom: 4px;" alt="badge_double_diamond"/>
+    <p><b>DOUBLE DIAMOND</b></p>
   </div>
   <div style="margin-right: 24px;" align="center">
-    <img src="https://github.com/doitchuu/doitchuu/assets/43771772/ef4043a9-b5a4-48b1-ad16-2f39cbae1994" width="120" style="margin-bottom: 4px; alt="badge_challenger" />
-     <p><b>PRO CHALLENGER</b></p>
+    <img src="https://github.com/doitchuu/doitchuu/assets/43771772/ef4043a9-b5a4-48b1-ad16-2f39cbae1994" width="120" style="margin-bottom: 4px;" alt="badge_challenger" />
+    <p><b>PRO CHALLENGER</b></p>
   </div>
   <div style="margin-right: 24px;" align="center">
-    <img src="https://github.com/doitchuu/doitchuu/assets/43771772/b82a519f-1de4-4e8f-b39e-4c3a6cc6e8aa" width="120" style="margin-bottom: 4px; alt="badge_ux_thinker"/>
+    <img src="https://github.com/doitchuu/doitchuu/assets/43771772/b82a519f-1de4-4e8f-b39e-4c3a6cc6e8aa" width="120" style="margin-bottom: 4px;" alt="badge_ux_thinker"/>
     <p><b>ALWAYS UX THINKER</b></p>
   </div>
 </div>
