@@ -2,7 +2,7 @@
 
 <br />
 
-<table>
+<table align="center">
  <tr>
     <td width="200" height="190" align="center">
       <img src="https://github.com/doitchuu/doitchuu/assets/43771772/502059c2-124d-49e4-bc69-2a83d9a0c0c1" width="120" style="margin: 30px;" alt="badge_double_diamond"/>
