@@ -5,7 +5,7 @@
 <table align="center">
  <tr>
     <td width="200" height="190" align="center">
-      <img src="https://github.com/doitchuu/doitchuu/assets/43771772/502059c2-124d-49e4-bc69-2a83d9a0c0c1" width="120" style="margin: 30px;" alt="badge_double_diamond"/>
+      <img src="https://github.com/doitchuu/doitchuu/assets/43771772/dfb8f737-626b-4250-89b1-0986dc7ccd12" width="120" style="margin: 30px;" alt="badge_triple" />
     </td>
     <td width="200" height="190" align="center">
       <img src="https://github.com/doitchuu/doitchuu/assets/43771772/ef4043a9-b5a4-48b1-ad16-2f39cbae1994" width="120" style="margin: 30px;" alt="badge_challenger"/>
@@ -16,7 +16,7 @@
  </tr>
  <tr>
     <td align="center">
-     <b> DOUBLE DIAMOND</b>
+     <b>TRIPLE S</b>
     </td>
     <td align="center">
       <b> PRO CHALLENGER</b></a>
@@ -30,14 +30,11 @@
 
 <br />
 
-### 1) DOUBLE DIAMOND : <br />문제 해결을 위해 창의적으로 생각하려 노력합니다.
+### 1) TRIPLE S (Solid Scheme Specialist) : <br />서비스와 화면을 설계하고 구조화하는 것을 잘합니다.
 
-문제 해결 과정에서 생각의 확산과 수렴을 반복하는 방식이 중요하다고 생각합니다.<br />
-문제를 정의하고 해석하는 과정에서 다양한 아이디어를 도출하고,<br />
-이를 통해 최적의 해결책을 찾아가는 접근 방식을 취합니다.<br />
-
-> **Double Diamond ?**<br />
-> 서비스 디자인에서 사고의 폭을 최대한 넓히고 끌어낸 아이디어를<br />하나로 좁혀나가는 과정을 정리하는 방법론입니다.
+기획, 디자인 업무를 진행해온 경험으로 탄탄하게 서비스의 정보 구조와 화면을 설계하고 구조화하는 것을 잘합니다.<br />
+IT업계에서 일하며 서비스에 대한 구조와 비지니스를 이해하고, 사용자의 문제를 해결하기 위해 화면을 설계하고 구조화해왔습니다.<br />
+이런 경험으로 효율적이고 확장 가능한 프론트엔드 아키텍처와 더 나은 코드들을 설계해가고 싶습니다.<br />
 
 <br />
 
